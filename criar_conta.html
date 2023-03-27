@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/img/favicon.png" type="image/x-icon">
+    <title>FlashFood - Cadastro</title>
+
+    <link rel="stylesheet" href="assets/css/style.css">
+</head>
+
+<body>
+    <header id="header">
+        <a class="logo" href="index.html">FLASH<span>FOOD</span></a>
+
+        <nav id="nav">
+            <button aria-label="Abrir Menu" id="btn-mobile" aria-haspopup="true" aria-controls="menu" aria-expanded="false">Menu
+                <span id="hamburger"></span>
+            </button>
+
+            <ul id="menu" role="menu">
+                <li><a href="index.html">Início</a></li>
+                <li><a href="produtos.html">Cardápio</a></li>
+                <li><a href="contato.html">Contato</a></li>
+                <div>
+                    <li><a class="btn-site login" href="login.html">Login</a></li>
+                </div>
+            </ul>
+        </nav>
+    </header>
+
+    <div class="container-contato container-login">
+        <form class="form-contato">
+            <label for="nome">Digite o seu nome</label>
+            <input class="inputField" type="nome" id="nome" name="nome" placeholder="João" required>
+
+            <label for="sobrenome">Digite o seu sobrenome</label>
+            <input class="inputField" type="sobrenome" id="sobrenome" name="sobrenome" placeholder="Silva" required>
+
+            <label for="email">Digite o seu e-mail</label>
+            <input class="inputField" type="email" id="email" name="email" placeholder="exemplo@hotmail.com" required>
+
+            <label for="email">Digite o seu código-funcionário</label>
+            <input class="inputField" type="email" id="email" name="email" placeholder="584685" required>
+
+            <label for="senha">Digite uma senha</label>
+            <input class="inputField" type="password" id="senha" name="senha" placeholder="senha123" required>
+
+            <div class="buttons">
+                <button type="submit" class="btn-site btn-login">Cadastrar</button>
+            </div>
+        </form>
+    </div>
+
+    <footer class="footer">
+        <div class="footer-container">
+            <p><span style="color: red;">Flash</span><span style="color: #b67804">Food</span> © 2023. Todos os direitos reservados.</p>
+        </div>
+    </footer>
+
+    <script src="assets/js/script.js"></script>
+</body>
+
+</html>
