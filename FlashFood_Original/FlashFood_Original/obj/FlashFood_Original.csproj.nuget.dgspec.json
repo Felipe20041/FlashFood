@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricar\\OneDrive\\Área de Trabalho\\Teste\\FlashFood\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj": {}
+    "C:\\Users\\Cliente\\Desktop\\Nova pasta (2)\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricar\\OneDrive\\Área de Trabalho\\Teste\\FlashFood\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj": {
+    "C:\\Users\\Cliente\\Desktop\\Nova pasta (2)\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricar\\OneDrive\\Área de Trabalho\\Teste\\FlashFood\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj",
+        "projectUniqueName": "C:\\Users\\Cliente\\Desktop\\Nova pasta (2)\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj",
         "projectName": "FlashFood_Original",
-        "projectPath": "C:\\Users\\ricar\\OneDrive\\Área de Trabalho\\Teste\\FlashFood\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj",
-        "packagesPath": "C:\\Users\\ricar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricar\\OneDrive\\Área de Trabalho\\Teste\\FlashFood\\FlashFood\\FlashFood_Original\\FlashFood_Original\\obj\\",
+        "projectPath": "C:\\Users\\Cliente\\Desktop\\Nova pasta (2)\\FlashFood\\FlashFood_Original\\FlashFood_Original\\FlashFood_Original.csproj",
+        "packagesPath": "C:\\Users\\Cliente\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cliente\\Desktop\\Nova pasta (2)\\FlashFood\\FlashFood_Original\\FlashFood_Original\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ricar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Cliente\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
