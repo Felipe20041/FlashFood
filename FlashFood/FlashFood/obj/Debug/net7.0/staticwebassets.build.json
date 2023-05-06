@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "adlbLFrLxzuel5Lu14smRMYcUceVYsWMUvYNR6NcnpM=",
+  "Hash": "v7Sh46E7k3rX0X5aAJZqEpO+k5PTydM/UiD1mQa9iHc=",
   "Source": "FlashFood",
   "BasePath": "_content/FlashFood",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "FlashFood\\wwwroot",
       "Source": "FlashFood",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FlashFood.styles.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FlashFood.styles.css",
       "SourceId": "FlashFood",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "FlashFood.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FlashFood.styles.css"
+      "OriginalItemSpec": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\bundle\\FlashFood.styles.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FlashFood.bundle.scp.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FlashFood.bundle.scp.css",
       "SourceId": "FlashFood",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "FlashFood.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,404 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FlashFood.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\FlashFood.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\botafogo.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\css\\style.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\clientes\\client.png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/clientes/client.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\clientes\\client.png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\edit.svg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/edit.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\edit.svg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\edit-hover.svg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/edit-hover.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\edit-hover.svg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (1).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (2).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (3).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (3).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (3).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (4).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (4).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (4).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (5).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (5).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (5).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\esfiha (6).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/esfiha (6).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\esfiha (6).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (1).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (1).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (1).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (2).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (2).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (2).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (3).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (3).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (3).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (4).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (4).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (4).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (5).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (5).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (5).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (6).png",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas/imagens_sem_fundo/esfiha (6).png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas\\imagens_sem_fundo\\esfiha (6).png"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas_bg_img\\esfihas01.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas_bg_img/esfihas01.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas_bg_img\\esfihas01.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas_bg_img\\esfihas02.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas_bg_img/esfihas02.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas_bg_img\\esfihas02.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\esfihas_bg_img\\esfihas03.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/esfihas_bg_img/esfihas03.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\esfihas_bg_img\\esfihas03.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\locais\\botafogo.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/locais/botafogo.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\locais\\botafogo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\locais\\iguatemi.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/locais/iguatemi.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\locais\\iguatemi.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\img\\locais\\mineirao.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/img/locais/mineirao.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\locais\\mineirao.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\assets\\js\\script.js",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
+      "BasePath": "_content/FlashFood",
+      "RelativePath": "assets/js/script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\botafogo.jpg",
+      "SourceId": "FlashFood",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "botafogo.jpg",
       "AssetKind": "All",
@@ -68,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\botafogo.jpg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\client.png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\client.png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "client.png",
       "AssetKind": "All",
@@ -85,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\client.png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\css\\site.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -102,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\css\\style.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "css/style.css",
       "AssetKind": "All",
@@ -119,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\ef.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\ef.jpg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "ef.jpg",
       "AssetKind": "All",
@@ -136,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\ef.jpg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\esfiha (2).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\esfiha (2).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "esfiha (2).png",
       "AssetKind": "All",
@@ -153,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\esfiha (2).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\esfiha (3).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\esfiha (3).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "esfiha (3).png",
       "AssetKind": "All",
@@ -170,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\esfiha (3).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\esfihas03.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\esfihas03.jpg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "esfihas03.jpg",
       "AssetKind": "All",
@@ -187,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\esfihas03.jpg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\favicon.ico",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -204,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\iguatemi.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\iguatemi.jpg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "iguatemi.jpg",
       "AssetKind": "All",
@@ -221,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\iguatemi.jpg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\edit.svg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\edit.svg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/edit.svg",
       "AssetKind": "All",
@@ -238,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\edit.svg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\edit-hover.svg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\edit-hover.svg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/edit-hover.svg",
       "AssetKind": "All",
@@ -255,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\edit-hover.svg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (1).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (1).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/esfiha (1).png",
       "AssetKind": "All",
@@ -272,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\esfiha (1).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (4).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (4).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/esfiha (4).png",
       "AssetKind": "All",
@@ -289,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\esfiha (4).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (5).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (5).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/esfiha (5).png",
       "AssetKind": "All",
@@ -306,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\esfiha (5).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (6).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\esfiha (6).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/esfiha (6).png",
       "AssetKind": "All",
@@ -323,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\esfiha (6).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (1).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (1).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (1).png",
       "AssetKind": "All",
@@ -340,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (1).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (2).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (2).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (2).png",
       "AssetKind": "All",
@@ -357,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (2).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (3).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (3).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (3).png",
       "AssetKind": "All",
@@ -374,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (3).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (4).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (4).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (4).png",
       "AssetKind": "All",
@@ -391,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (4).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (5).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (5).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (5).png",
       "AssetKind": "All",
@@ -408,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (5).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (6).png",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (6).png",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas/imagens_sem_fundo/esfiha (6).png",
       "AssetKind": "All",
@@ -425,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas\\imagens_sem_fundo\\esfiha (6).png"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas_bg_img\\esfihas01.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\img\\esfihas_bg_img\\esfihas01.jpg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "img/esfihas_bg_img/esfihas01.jpg",
       "AssetKind": "All",
@@ -442,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\esfihas_bg_img\\esfihas01.jpg"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\js\\site.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -459,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -476,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -493,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -510,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -527,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -544,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -561,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -578,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -595,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -612,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -629,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -646,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -663,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -680,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -697,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -714,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -731,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -748,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -765,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -782,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -799,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -816,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -833,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -850,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -867,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -884,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -901,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -918,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -935,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -952,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -969,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -986,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -1003,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1020,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1037,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1054,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1071,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -1088,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -1105,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -1122,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -1139,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1156,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1173,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1190,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1207,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1224,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1241,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1258,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1275,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1292,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1309,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1326,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1343,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1360,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1377,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1394,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1411,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1428,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\mineirao.jpg",
+      "Identity": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\mineirao.jpg",
       "SourceId": "FlashFood",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\wwwroot\\",
       "BasePath": "_content/FlashFood",
       "RelativePath": "mineirao.jpg",
       "AssetKind": "All",

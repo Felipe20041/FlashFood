@@ -15,6 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <None Include="wwwroot\assets\img\edit-hover.svg" />
+    <None Include="wwwroot\assets\img\edit.svg" />
+    <None Include="wwwroot\assets\js\script.js" />
     <None Include="wwwroot\js\script.js" />
   </ItemGroup>
 

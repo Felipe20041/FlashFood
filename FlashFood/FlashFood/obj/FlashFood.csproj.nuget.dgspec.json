@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\FlashFood.csproj": {}
+    "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\FlashFood.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\FlashFood.csproj": {
+    "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\FlashFood.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\FlashFood.csproj",
+        "projectUniqueName": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\FlashFood.csproj",
         "projectName": "FlashFood",
-        "projectPath": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\FlashFood.csproj",
-        "packagesPath": "C:\\Users\\kauap\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauap\\OneDrive\\Área de Trabalho\\FlashFood\\FlashFood\\obj\\",
+        "projectPath": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\FlashFood.csproj",
+        "packagesPath": "C:\\Users\\0220832211016\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\0220832211016\\Desktop\\FlashFood(backend)\\FlashFood\\FlashFood\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\kauap\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\0220832211016\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
